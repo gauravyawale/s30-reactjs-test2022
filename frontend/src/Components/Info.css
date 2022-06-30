@@ -1,0 +1,36 @@
+.userBox {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1rem;
+  border: 2px solid rgb(44, 205, 44);
+  box-shadow: 4px 4px 4px rgb(172, 172, 172);
+}
+
+.refresh-button{
+   position: fixed;
+   top: 80%;
+    left: 50%;
+   transform: translate(-50%, -50%);
+   background-color: rgb(21, 182, 88);
+   padding: 0.5rem;
+   color: aliceblue;
+   font-size: 16px;
+   font-weight: bold;
+   border: 1px solid rgb(21, 182, 88);
+   border-radius: 4px;
+}
+
+.refresh-button:hover{
+    background-color: aliceblue;
+    color: rgb(21, 182, 88);
+    border-color: rgb(21, 182, 88);
+}
+
+.userInfo{
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+
