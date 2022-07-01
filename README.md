@@ -1,6 +1,6 @@
 # s30-reactjs-test2022
 
-# What is the use of this Repo
+# About this repo
 
 This is a Test ReactJS Project which demonstrates the following:
 
