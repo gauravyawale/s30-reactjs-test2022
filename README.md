@@ -20,14 +20,13 @@ https://62bdc18cb13ee52f9e33f0dc--vocal-buttercream-d082de.netlify.app/
 
 Prerequisite:
 
-Install Node JS into your local machine:
-    Refer to https://nodejs.org/en/ to install nodejs.
+* Install Node JS into your local machine: Refer to https://nodejs.org/en/ to install nodejs.
 
 1) Clone the project into local machine.
-    Refer following link- https://www.jcchouinard.com/clone-github-repository-on-windows/
+    * Refer following link- https://www.jcchouinard.com/clone-github-repository-on-windows/
 2) Install all the npm packages. Go into the project folder named "s30-reactjs-test2022" and type the following command to install all npm packages.
     * $cd frontend
     * $npm install
 3) In order to run the application Type the following command.
-    npm start
+    * npm start
 4) The application runs on localhost:3000
