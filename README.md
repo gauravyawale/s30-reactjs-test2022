@@ -26,8 +26,8 @@ Install Node JS into your local machine:
 1) Clone the project into local machine.
     Refer following link- https://www.jcchouinard.com/clone-github-repository-on-windows/
 2) Install all the npm packages. Go into the project folder named "s30-reactjs-test2022" and type the following command to install all npm packages.
-    $cd frontend
-    $npm install
+    * $cd frontend
+    * $npm install
 3) In order to run the application Type the following command.
     npm start
 4) The application runs on localhost:3000
